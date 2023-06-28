@@ -6,7 +6,8 @@
 ## 使用说明
 
 1.修改 webhook_url 为自己的钉钉机器人链接
-2.上传到 sliver server 的机器，执行命令即可
+
+2.上传到 sliver server 的机器，执行以下命令即可
 
 ```
 tmux new -s sliver-webhook
