@@ -1,6 +1,6 @@
 # sliver-webhook 
 
-官方推荐上线通知功能使用第三方项目（https://github.com/BishopFox/sliver/issues/870），过于麻烦。
+官方推荐上线通知功能使用第三方项目（ https://github.com/BishopFox/sliver/issues/870 ），过于麻烦。
 脚本实现实时上线通知功能，无需修改 sliver 代码，后台运行程序即可。
 
 ## 使用说明
